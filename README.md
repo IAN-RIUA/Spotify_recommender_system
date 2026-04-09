@@ -1,0 +1,2 @@
+The Spotify Recommender System is a content-based music recommendation app built on a dataset of 62,000+ Spotify tracks. It works by comparing songs using 8 audio features — like danceability, energy, and tempo — and finding the ones that sound most similar to a song you choose.
+The project has two parts: an analysis notebook (index.ipynb) where the data is cleaned and explored, and an interactive web app (recommender.html) where you search for any song and instantly get similar track recommendations with Spotify links — no server needed, runs entirely in the browser.
