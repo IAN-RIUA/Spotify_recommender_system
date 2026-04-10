@@ -48,4 +48,4 @@ jupyter notebook index.ipynb
 
 ## 🧑‍💻 Author
 
-**Ian Riua** · Data Systems Analyst & Data Science 
+**Ian Riua** · Data Analyst & Data Scientist. 
